@@ -1,0 +1,13 @@
+# Logs
+*.log
+# Dependency directories
+node_modules/
+# Build output
+/build/
+# Environment variables
+.env.example
+package-lock.json
+package.json
+amname.txt
+.env
+
